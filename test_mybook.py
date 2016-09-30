@@ -2,7 +2,7 @@ import unittest
 import xlwings as xw
 
 
-class TestSum(unittest.TestCase):
+class TestMyBook(unittest.TestCase):
     def setUp(self):
         self.wb = xw.Book('mybook.xlsm')
 
