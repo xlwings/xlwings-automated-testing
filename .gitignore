@@ -1,0 +1,71 @@
+.metadata
+*.py[cod]
+*~*
+
+# Config files
+*.cfg
+
+# SQLite Database
+*.db 
+
+logfiles
+.settings
+
+# Sphinx
+_build
+
+# PyCharm
+.idea
+
+# NetBeans
+/nbproject
+
+# Mac
+*.DS_Store
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+*.zip
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+MANIFEST
+
+# logs
+pip-log.txt
+log*
+
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# google analytics example
+client_secrets.json
+
+# Visual Studio related garbage and binaries
+*.suo
+*.opensdf
+*.sdf
+Win32/
+x64/
+
+# binaries
+*.dll
+
