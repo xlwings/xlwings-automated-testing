@@ -11,7 +11,6 @@ class TestMyBook(unittest.TestCase):
 
     def tearDown(self):
         pass
-        # self.wb.close()
 
     def test_mysum(self):
         result = self.mysum(1, 2)
